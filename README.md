@@ -1,2 +1,5 @@
 # Pure-Deeplearning
-Deeplearning study
+# Deeplearning study
+# This Content is made for pure handmade deeplearning
+
+## This
